@@ -36,3 +36,7 @@ h1{
 p{
     font-size: 30px;
 }
+.categoria-videos iframe {
+    opacity: 0.5;
+    height: 200px;
+}
